@@ -36,18 +36,19 @@ Open the Xcode project
 Go to Product > Scheme > Edit Scheme
 
 Under Run > Arguments, add:
+'''bash
 -runlocal
-
+'''bash
 ## 🧪 Run UI Tests
 
 ## 📁 Project Structure
 
 '''bash
 StarWarsInfo/
-├── Vendor/                      # WireMock JAR and mappings
+├── Vendor/
 │   ├── wiremock.jar
-│   ├── __files/                 # JSON mock responses
-│   └── mappings/               # Request → Response mapping rules
+│   ├── __files/
+│   └── mappings/
 ├── StarWarsInfoUITests/
 │   └── UI test cases
 ├── StarWarsInfo/
