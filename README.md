@@ -41,6 +41,8 @@ Under Run > Arguments, add:
 ## 🧪 Run UI Tests
 
 ## 📁 Project Structure
+
+'''bash
 StarWarsInfo/
 ├── Vendor/                      # WireMock JAR and mappings
 │   ├── wiremock.jar
@@ -52,7 +54,7 @@ StarWarsInfo/
 │   ├── ViewControllers/
 │   └── ViewModels/
 └── README.md
-
+'''bash
 
 ## 📖 Based On
 Kodeco Tutorial: Local API Call Testing with WireMock
@@ -61,4 +63,4 @@ Kodeco Tutorial: Local API Call Testing with WireMock
 This project is intended for educational and learning purposes. All original content © Razeware/Kodeco.
 
 
-```bash
+
