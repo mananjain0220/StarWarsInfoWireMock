@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/error/api/people"
+  },
+  "response": {
+    "status": 500,
+    "bodyFileName": "error-message.html"
+  }
+}

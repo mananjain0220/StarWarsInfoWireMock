@@ -1,0 +1,10 @@
+{
+  "request": {
+      "method": "GET",
+      "url": "/swapi.dev/api/people"
+  },
+  "response": {
+      "status": 200,
+      "bodyFileName": "character-list.json"
+  }
+}

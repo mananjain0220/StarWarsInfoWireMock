@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/empty/api/people"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "empty-character-list.json"
+  }
+}

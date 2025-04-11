@@ -1,0 +1,11 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/delay/api/people"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "character-list.json",
+    "fixedDelayMilliseconds": 8000
+  }
+}
