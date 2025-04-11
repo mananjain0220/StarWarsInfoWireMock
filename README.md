@@ -21,7 +21,7 @@ This app loads character data from the [Star Wars API (SWAPI)](https://swapi.dev
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/YOUR_USERNAME/StarWarsInfoWireMock.git
 cd StarWarsInfoWireMock
 
@@ -59,3 +59,6 @@ Kodeco Tutorial: Local API Call Testing with WireMock
 
 ## 🪐 License
 This project is intended for educational and learning purposes. All original content © Razeware/Kodeco.
+
+
+```bash
