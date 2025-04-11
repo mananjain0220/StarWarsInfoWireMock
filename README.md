@@ -43,19 +43,7 @@ Under Run > Arguments, add:
 
 ## 📁 Project Structure
 
-'''bash
-StarWarsInfo/
-├── Vendor/
-│   ├── wiremock.jar
-│   ├── __files/
-│   └── mappings/
-├── StarWarsInfoUITests/
-│   └── UI test cases
-├── StarWarsInfo/
-│   ├── ViewControllers/
-│   └── ViewModels/
-└── README.md
-'''bash
+<pre lang="markdown"><code> ```bash StarWarsInfo/ ├── Vendor/ # WireMock JAR and mappings │ ├── wiremock.jar │ ├── __files/ # JSON mock responses │ └── mappings/ # Request → Response mapping rules ├── StarWarsInfoUITests/ │ └── UI test cases ├── StarWarsInfo/ │ ├── ViewControllers/ │ └── ViewModels/ └── README.md ``` </code></pre>
 
 ## 📖 Based On
 Kodeco Tutorial: Local API Call Testing with WireMock
